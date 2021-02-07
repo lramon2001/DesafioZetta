@@ -8,4 +8,5 @@ O sistema faz uso da arquitetura MVC(Model-View-Controller) e a persistência do
 -Caso tenha a necessidade de editar ou exluir um funcionário da lista é muito simples. Você deve clicar na linha em que está o funcionário que deseja editar ou excluir e carregar o botão.
 
 ## Interface feita com Jframe:
+![Imagem Interface]()
 
