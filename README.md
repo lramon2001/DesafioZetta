@@ -1,6 +1,9 @@
 
 
 [![Série](https://img.shields.io/badge/lramon2001-DesafioZetta-red)](https://github.com/lramon2001/DesafioZetta)
+[![licence mit](https://img.shields.io/badge/licence-MIT-blue.svg)](https://github.com/lramon2001/DesafioZetta/blob/main/LICENSE)
+![language](https://img.shields.io/badge/java-only-yellow)
+![design](https://img.shields.io/badge/jframe-only-yellow)
 
 ## DesafioZetta/ ZettaChallenge
 Software desenvolvido para Agência Zetta/ software designed for zetta agency
@@ -17,8 +20,6 @@ The system makes use of the MVC (Model-View-Controller) architecture and the per
 
 
 
-[![licence mit](https://img.shields.io/badge/licence-MIT-blue.svg)](https://github.com/lramon2001/DesafioZetta/blob/main/LICENSE)
-![language](https://img.shields.io/badge/java-only-yellow)
 
 :rocket: Project with OO approaches and Java applications. 
 
