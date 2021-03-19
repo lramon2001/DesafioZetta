@@ -1,9 +1,11 @@
-##DesafioZetta
+
 
 [![Série](https://img.shields.io/badge/lramon2001-DesafioZetta-red)](https://github.com/lramon2001/DesafioZetta)
-CRUD desenvolvido para Agência Zetta.
+
+##DesafioZetta/ ZettaChallenge
+Software desenvolvido para Agência Zetta/ software designed for zetta agency
 ## Arquitetura e persistência dos dados
-O sistema faz uso da arquitetura MVC(Model-View-Controller) e a persistência dos dados é pautada no armazenamento em arquivo txt.
+O sistema faz uso da arquitetura MVC(Model-View-Controller) e a persistência dos dados é pautada no armazenamento em arquivo txt/ The system makes use of the MVC (Model-View-Controller) architecture and the persistence of the data is based on txt file storage
 ## Como utilizar o produto/ How to use the product
 -Para cadastrar um funcionário basta clicar no botão novo, preencher os dados e carregar a função salvar;
 
