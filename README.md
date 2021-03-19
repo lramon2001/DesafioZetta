@@ -2,7 +2,7 @@
 
 [![Série](https://img.shields.io/badge/lramon2001-DesafioZetta-orange)](https://github.com/lramon2001/DesafioZetta)
 [![licence mit](https://img.shields.io/badge/licence-MIT-purple.svg)](https://github.com/lramon2001/DesafioZetta/blob/main/LICENSE)
-![language](https://img.shields.io/badge/languaqe-blue-blue)
+![language](https://img.shields.io/badge/languaqe-java-blue)
 ![design](https://img.shields.io/badge/view-jframe-green)
 
 ## DesafioZetta/ ZettaChallenge
