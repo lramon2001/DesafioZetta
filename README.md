@@ -4,7 +4,7 @@
 
 ## DesafioZetta/ ZettaChallenge
 Software desenvolvido para Agência Zetta/ software designed for zetta agency
-## Arquitetura e persistência dos dados
+## Arquitetura e persistência dos dados/ Architecture and Data persistence
 O sistema faz uso da arquitetura MVC(Model-View-Controller) e a persistência dos dados é pautada no armazenamento em arquivo txt/   The system makes use of the MVC (Model-View-Controller) architecture and the persistence of the data is based on txt file storage
 ## Como utilizar o produto/ How to use the product
 -Para cadastrar um funcionário basta clicar no botão novo, preencher os dados e carregar a função salvar;
