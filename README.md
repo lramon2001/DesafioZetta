@@ -11,9 +11,11 @@ Software desenvolvido para Agência Zetta/ software designed for zetta agency
 O sistema faz uso da arquitetura MVC(Model-View-Controller) e a persistência dos dados é pautada no armazenamento em arquivo txt /   
 The system makes use of the MVC (Model-View-Controller) architecture and the persistence of the data is based on txt file storage
 ## Como utilizar o produto/ How to use the product
--Para cadastrar um funcionário basta clicar no botão novo, preencher os dados e carregar a função salvar;
+-Para cadastrar um funcionário basta clicar no botão novo, preencher os dados e carregar a função salvar/
+To register an employee just click on the new button, fill in the data and load the save function;
 
--Caso tenha a necessidade de editar ou exluir um funcionário da lista, basta clicar na linha desejada e carregar o botão com a função esperada.
+-Caso tenha a necessidade de editar ou exluir um funcionário da lista, basta clicar na linha desejada e carregar o botão com a função esperada/
+If you need to edit or delete an employee from the list, just click on the desired line and press the button with the expected function.
 
 ## Interface feita com Jframe/ Design done with JFRAME:
 ![Imagem Interface](https://github.com/lramon2001/DesafioZetta/blob/master/Interface.png)
