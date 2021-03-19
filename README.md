@@ -2,8 +2,8 @@
 
 [![Série](https://img.shields.io/badge/lramon2001-DesafioZetta-red)](https://github.com/lramon2001/DesafioZetta)
 [![licence mit](https://img.shields.io/badge/licence-MIT-blue.svg)](https://github.com/lramon2001/DesafioZetta/blob/main/LICENSE)
-![language](https://img.shields.io/badge/java-only-yellow)
-![design](https://img.shields.io/badge/jframe-only-yellow)
+![language](https://img.shields.io/badge/java-only-blue)
+![design](https://img.shields.io/badge/jframe-blue)
 
 ## DesafioZetta/ ZettaChallenge
 Software desenvolvido para Agência Zetta/ software designed for zetta agency
