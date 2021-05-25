@@ -35,10 +35,10 @@ If you need to edit or delete an employee from the list, just click on the desir
 
 
 ## Versioning / Versionamento
-- This project follows the [release](https://github.com/lramon2001/INMTE/releases) model for versioning.
+- This project follows the [release](https://github.com/lramon2001/DesafioZetta/releases/tag/DesafioZettav1.0) model for versioning.
 
 
-> **Esse projeto segue o modelo de [releases](https://github.com/lramon2001/INMTE/releases) para versionamento.**
+> **Esse projeto segue o modelo de [releases](https://github.com/lramon2001/DesafioZetta/releases/tag/DesafioZettav1.0) para versionamento.**
 
 ## History / História
 - See [Commit changes](https://github.com/lramon2001/DesafioZetta/commits/main) for details.
