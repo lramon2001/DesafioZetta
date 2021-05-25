@@ -46,5 +46,5 @@ If you need to edit or delete an employee from the list, just click on the desir
 > **Consulte [Mudanças de commit](https://github.com/lramon2001/DesafioZetta/commits/main) para obter detalhes.**
 
 ## License / Licença
-[MIT License]https://github.com/lramon2001/DesafioZetta/blob/master/LICENSE © [lramon](https://github.com/lramon2001)
+[MIT License](https://github.com/lramon2001/DesafioZetta/blob/master/LICENSE) © [lramon](https://github.com/lramon2001)
 
