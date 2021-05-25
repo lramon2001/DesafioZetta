@@ -5,7 +5,7 @@
 ![language](https://img.shields.io/badge/languaqe-java-blue)
 ![design](https://img.shields.io/badge/view-jframe-green)
 
-## DesafioZetta/ ZettaChallenge
+## DesafioZetta 
 Software desenvolvido para Agência Zetta/ software designed for zetta agency
 ## Arquitetura e persistência dos dados/ Architecture and Data persistence
 O sistema faz uso da arquitetura MVC(Model-View-Controller) e a persistência dos dados é pautada no armazenamento em arquivo txt /   
@@ -16,22 +16,29 @@ To register an employee just click on the new button, fill in the data and load 
 
 -Caso tenha a necessidade de editar ou exluir um funcionário da lista, basta clicar na linha desejada e carregar o botão com a função esperada/
 If you need to edit or delete an employee from the list, just click on the desired line and press the button with the expected function.
-
+## Built with / Feito com
+- Java 11;
+- JDK 11;
+- Apache Netbeans;
+- 
 ## Interface feita com Jframe/ Design done with JFRAME:
 ![Imagem Interface](https://github.com/lramon2001/DesafioZetta/blob/master/Interface.png)
-
-
-
-
 :rocket: Project with OO approaches and Java applications. 
 
 > :rocket: **Projeto com abordagens de OO e aplicações em Java.**
 
+## Contributing / Contribuindo
+
+- Want to contribute? [Follow this recommendations](./CONTRIBUTING.md):  
+
+> **Pretende contribuir? [Siga esses passos](./CONTRIBUTING.md):**
+
 
 ## Versioning / Versionamento
-- This project does not follow any versioning requirements.
+- This project follows the [release](https://github.com/lramon2001/INMTE/releases) model for versioning.
 
-> **Esse projeto não segue nenhum requisito de versionamento.**
+
+> **Esse projeto segue o modelo de [releases](https://github.com/lramon2001/INMTE/releases) para versionamento.**
 
 ## History / História
 - See [Commit changes](https://github.com/lramon2001/DesafioZetta/commits/main) for details.
