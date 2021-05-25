@@ -5,6 +5,10 @@
 ![language](https://img.shields.io/badge/languaqe-java-blue)
 ![design](https://img.shields.io/badge/view-jframe-green)
 
+:rocket: Project with OO approaches and Java applications. 
+
+> :rocket: **Projeto com abordagens de OO e aplicações em Java.**
+
 ## DesafioZetta 
 Software desenvolvido para Agência Zetta/ software designed for zetta agency
 ## Arquitetura e persistência dos dados/ Architecture and Data persistence
@@ -23,9 +27,6 @@ If you need to edit or delete an employee from the list, just click on the desir
 - 
 ## Interface feita com Jframe/ Design done with JFRAME:
 ![Imagem Interface](https://github.com/lramon2001/DesafioZetta/blob/master/Interface.png)
-:rocket: Project with OO approaches and Java applications. 
-
-> :rocket: **Projeto com abordagens de OO e aplicações em Java.**
 
 ## Contributing / Contribuindo
 
